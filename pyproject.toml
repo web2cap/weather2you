@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "weather2you"
+version = "0.1.0"
+description = ""
+authors = ["Pavel <web2cap@gmail.com>"]
+license = "BSD-3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
